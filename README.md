@@ -1,20 +1,13 @@
 ![cruel](https://telegra.ph/file/148577d8e9978571ee154.jpg)
 # AsunaRobot
 
-its original fork from phantom bot
+A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Cutiepii suitable for Anime and Manga group chats.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hyper-ub/saber)
+Can be found on telegram as Cutiepii Robot.
 
+The Support group can be reached out to at Cutiepii Support, where you can ask for help about Cutiepii Robot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
-A modular telegram Python bot running on python3 with an sqlalchemy database.
-Concept taken from [Saitama Robot](https://github.com/AnimeKaizoku/SaitamaRobot)
-
-Originally a marie fork - saber has evolved further and was built to be more useful for Anime Chats. 
-
-Can be found on telegram as [saber](https://t.me/saber_herobot).
-
-The Support group can be reached out to at [fate union](https://t.me/fateunion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
-
+News channel as at Cutiepii Updates
  
 
 ## Setting up the bot (Read this before trying to use!):
