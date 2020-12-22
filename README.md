@@ -1,4 +1,4 @@
-![cruel](https://telegra.ph/file/3c89380ee9139ec0377ff.jpg)
+![cruel](https://telegra.ph/file/148577d8e9978571ee154.jpg)
 # AsunaRobot
 
 its original fork from phantom bot
