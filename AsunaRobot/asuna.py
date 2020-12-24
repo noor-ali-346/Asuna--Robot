@@ -2,7 +2,7 @@ from telethon import events
 from AsunaRobot import telethn
 
 """Triggers start command in pm and in groupchats"""
-def asunabot(**args):
+def AsunaRobot(**args):
     """New message."""
     pattern = args.get('pattern', None)
     r_pattern = r'^[/!]'
